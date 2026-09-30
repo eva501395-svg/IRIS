@@ -37,7 +37,6 @@ I am a passionate Data Scientist and Python Developer currently interning at **C
   - **Level 2 (Core ML):** Predictive modeling (Linear Regression vs. Random Forest), Multi-class Logistic Regression (achieving **97% accuracy**), and K-Means Clustering with PCA dimensionality reduction.
   - **Level 3 (Advanced):** Creative adaptation of Time Series decomposition, NLP text classification (TF-IDF + Naive Bayes), and a custom Feed-Forward Neural Network (TensorFlow/Keras).
 - **Tech:** Python, Pandas, Scikit-Learn, TensorFlow/Keras, Matplotlib, Seaborn, NLTK, BeautifulSoup.
--  *[Link to Repository]*
 
 #### 2.  Advanced Tabular Data Insights & Model Optimization
 - **Description:** A deep-dive analytical project demonstrating mature data science intuition, such as identifying when traditional ML outperforms complex Deep Learning models on small, structured datasets.
