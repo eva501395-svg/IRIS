@@ -34,7 +34,7 @@ I am a passionate Data Scientist and Python Developer currently interning at **C
 - **Description:** A comprehensive, production-grade machine learning pipeline executing 9 distinct data science tasks across three difficulty levels, transforming a classic dataset into a robust analytical workflow.
 - **Key Features:** 
   - **Level 1 (Foundation):** Robust data cleaning (IQR outlier removal), Label/One-Hot Encoding, Standard Scaling, and comprehensive EDA (correlation heatmaps, distribution analysis).
-  - **Level 2 (Core ML):** Predictive modeling (Linear Regression vs. Random Forest), Multi-class Logistic Regression (achieving **97% accuracy**), and K-Means Clustering with PCA dimensionality reduction.
+  - **Level 2 (Core ML):** Predictive modeling (Linear Regression vs. Random Forest), Multi-class Logistic Regression , and K-Means Clustering with PCA dimensionality reduction.
   - **Level 3 (Advanced):** Creative adaptation of Time Series decomposition, NLP text classification (TF-IDF + Naive Bayes), and a custom Feed-Forward Neural Network (TensorFlow/Keras).
 - **Tech:** Python, Pandas, Scikit-Learn, TensorFlow/Keras, Matplotlib, Seaborn, NLTK, BeautifulSoup.
 
@@ -45,7 +45,7 @@ I am a passionate Data Scientist and Python Developer currently interning at **C
   - Unsupervised learning validation using the Elbow Method and Silhouette Scores.
   - Highly documented, modular code architecture with strict separation of concerns, designed to be easily forked and adapted for larger, real-world datasets.
 - **Tech:** Python, Object-Oriented Programming (OOP), Scikit-Learn, Statsmodels.
--  *[Link to Repository]*
+  
 
 
 
