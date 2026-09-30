@@ -1,6 +1,6 @@
 
-IRIS
-# Hi there, I'm [Eva Nyawira]! 
+# IRIS
+# Hi there, I'm Eva Nyawira 
 
 ###  Data Science Intern @ Codveda | Python Developer | Building Production-Grade ML Pipelines
 
